@@ -137,6 +137,11 @@
       "menuLabel": "About",
       "menuLink": "/about",
       "category": null
+    },
+    {
+      "menuLabel": "Hotdog",
+      "menuLink": "/hotdog",
+      "category": null
     }
   ],
   "filters": [
