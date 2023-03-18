@@ -44,9 +44,9 @@ const ShopPage = (props) => {
         </Container>
         <Banner
           maxWidth={'650px'}
-          name={`Sasp technology`}
+          name={`SASP technology`}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'This project is dedicated for achieving sustainable production of proteins.'
           }
         />
         <Container size={'large'} spacing={'min'}>
