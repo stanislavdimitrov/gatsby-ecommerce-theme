@@ -48,13 +48,13 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              Founded in 2023, Stivotech is an innovative Bulgarian brand with a
+              contemporary edge. We make automation in food and agro production that last long and we trive our service to be the best in the area.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
+              We created some of the world's first systems for automatic feeding
               perfecting the feel of the cotton. Today we are the only brand
               that makes T-shirts in its own factory in the UK. And we do this
               in the same factory we have occupied since 1937.
