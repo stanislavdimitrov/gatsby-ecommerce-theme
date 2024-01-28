@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Stivo Tech products'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'Discover 2024 suggestions'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
