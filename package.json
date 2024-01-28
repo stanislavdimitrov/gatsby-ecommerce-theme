@@ -21,6 +21,7 @@
     "cypress": "^10.0.3",
     "gatsby": "^4.5.4",
     "gatsby-plugin-manifest": "^4.14.0",
+    "i18n": "^0.15.1",
     "i18next": "^23.7.20",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
