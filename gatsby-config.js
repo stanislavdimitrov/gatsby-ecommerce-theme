@@ -16,15 +16,6 @@ module.exports = {
         icon: 'src/assets/favicon.png',
       },
     },
-    {
-      resolve: `gatsby-plugin-i18n`,
-      options: {
-        langKeyDefault: 'en',
-        langKeyForNull: 'en',
-        prefixDefault: false,
-        useLangKeyLayout: false,
-      },
-    },
     'gatsby-plugin-netlify',
   ],
 };
