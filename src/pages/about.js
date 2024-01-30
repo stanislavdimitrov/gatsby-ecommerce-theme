@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Stivo Tech \n A Bulgarian tech company`}
         />
 
         <div className={styles.navContainer}>
@@ -55,9 +55,9 @@ const AboutPage = (props) => {
             <br />
             <p>
               We created some of the world's first systems for automatic feeding
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              perfecting the reliable operations. Today we are the only brand
+              that makes food automation machines. Our fun gears related to outdoor sports are produced in cooperation 
+              with ELS.
             </p>
           </div>
         </Container>
