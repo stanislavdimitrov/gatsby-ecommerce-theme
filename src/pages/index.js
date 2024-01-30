@@ -43,7 +43,7 @@ const IndexPage = () => {
           <span className={styles.gold}>partnering with ELS.</span>
         </p>
         <p>
-          Our innovative<span className={styles.gold}>food automation products.</span>
+          Stivo Tech innovative <span className={styles.gold}>food automation products.</span>
         </p>
       </div>
 
