@@ -62,5 +62,13 @@
         "image": "/blogs/blog2.png",
         "link": "/blog/sample",
         "excerpt": "London-bs and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+    },
+    {
+        "title": "This is Stivo Tech new blog page",
+        "category": "design",
+        "alt": "Stivo Tech",
+        "image": "/blogs/blog2.png",
+        "link": "/blog/sample",
+        "excerpt": "Bulgarian based startup goes in the field of game simulations."
     }
   ]
